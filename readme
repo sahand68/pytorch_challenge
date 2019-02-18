@@ -1,0 +1,1 @@
+THis is a flower classification model that can use resnet154, densnet-161, and inception to classify from 102 species of flowers with accuracy of 99%.
